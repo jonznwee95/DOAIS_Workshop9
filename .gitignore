@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.deepeval/
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+/llm-multiroute/metrics/*.json
